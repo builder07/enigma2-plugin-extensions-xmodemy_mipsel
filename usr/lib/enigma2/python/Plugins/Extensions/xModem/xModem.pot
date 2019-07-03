@@ -1,0 +1,266 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-29 15:59+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plugin.py:922
+msgid "APN"
+msgstr ""
+
+#: plugin.py:1269
+msgid "Abort"
+msgstr ""
+
+#: plugin.py:912 plugin.py:932 plugin.py:954
+msgid "Adv. pppd options"
+msgstr ""
+
+#: plugin.py:969
+msgid "Alternative DNS"
+msgstr ""
+
+#: plugin.py:976
+msgid "Autostart"
+msgstr ""
+
+#: plugin.py:566
+msgid "Bytes:"
+msgstr ""
+
+#: plugin.py:550
+msgid "Close"
+msgstr ""
+
+#: plugin.py:1275
+msgid "Connect"
+msgstr ""
+
+#: plugin.py:549
+msgid "Connect statistics"
+msgstr ""
+
+#: plugin.py:1245
+msgid "Connected :)"
+msgstr ""
+
+#: plugin.py:1123
+msgid "Connected!"
+msgstr ""
+
+#: plugin.py:554
+msgid "Connection Time:"
+msgstr ""
+
+#: plugin.py:1202
+msgid "Connection terminated."
+msgstr ""
+
+#: plugin.py:553
+msgid "Current Time:"
+msgstr ""
+
+#: plugin.py:911 plugin.py:931 plugin.py:953
+msgid "Deinit string"
+msgstr ""
+
+#: plugin.py:1128 plugin.py:1130 plugin.py:1132 plugin.py:1180
+msgid "Dialing:"
+msgstr ""
+
+#: plugin.py:1265
+msgid "Disconnect"
+msgstr ""
+
+#: plugin.py:1087
+msgid "Do you really want to install the driver from the internet?"
+msgstr ""
+
+#: plugin.py:572
+msgid "Errors:"
+msgstr ""
+
+#: plugin.py:974
+msgid "Extended log"
+msgstr ""
+
+#: plugin.py:903 plugin.py:925
+msgid "Extended settings"
+msgstr ""
+
+#: plugin.py:1217 plugin.py:1252
+msgid "FAILED"
+msgstr ""
+
+#: plugin.py:962
+msgid "File /etc/ppp/peers/"
+msgstr ""
+
+#: plugin.py:560
+msgid "Gateway:"
+msgstr ""
+
+#: plugin.py:910 plugin.py:930 plugin.py:952
+msgid "Init string"
+msgstr ""
+
+#: plugin.py:1263 plugin.py:1277
+msgid "Install drivers"
+msgstr ""
+
+#: plugin.py:1088
+msgid "Install drivers for PPP"
+msgstr ""
+
+#: plugin.py:551
+msgid "Interface:"
+msgstr ""
+
+#: plugin.py:556
+msgid "Local IP:"
+msgstr ""
+
+#: plugin.py:1130 plugin.py:1132 plugin.py:1223
+msgid "Login:"
+msgstr ""
+
+#: plugin.py:909 plugin.py:929 plugin.py:951
+msgid "MRU size"
+msgstr ""
+
+#: plugin.py:908 plugin.py:928 plugin.py:950
+msgid "MTU size"
+msgstr ""
+
+#: plugin.py:562
+msgid "Nameservers:"
+msgstr ""
+
+#: plugin.py:569
+msgid "Packets:"
+msgstr ""
+
+#: plugin.py:901 plugin.py:916 plugin.py:942
+msgid "Password"
+msgstr ""
+
+#: plugin.py:902 plugin.py:918 plugin.py:921 plugin.py:944 plugin.py:947
+msgid "Phone number"
+msgstr ""
+
+#: plugin.py:1095
+msgid "Please wait, install drivers..."
+msgstr ""
+
+#: plugin.py:906 plugin.py:923 plugin.py:948
+msgid "Port"
+msgstr ""
+
+#: plugin.py:972
+msgid "Primary DNS"
+msgstr ""
+
+#: plugin.py:934 plugin.py:956 plugin.py:964
+msgid "Product ID"
+msgstr ""
+
+#: plugin.py:564
+msgid "Received"
+msgstr ""
+
+#: plugin.py:558
+msgid "Remote IP:"
+msgstr ""
+
+#: plugin.py:972
+msgid "Secondary DNS"
+msgstr ""
+
+#: plugin.py:907 plugin.py:924 plugin.py:949
+msgid "Speed"
+msgstr ""
+
+#: plugin.py:897
+msgid "Standard"
+msgstr ""
+
+#: plugin.py:1266
+msgid "Statistics"
+msgstr ""
+
+#: plugin.py:565
+msgid "Transmited"
+msgstr ""
+
+#: plugin.py:935 plugin.py:957 plugin.py:965
+msgid "Use usb_modeswitch"
+msgstr ""
+
+#: plugin.py:900 plugin.py:915 plugin.py:941
+msgid "Username"
+msgstr ""
+
+#: plugin.py:933 plugin.py:955 plugin.py:963
+msgid "Vendor ID"
+msgstr ""
+
+#: plugin.py:420
+msgid "full"
+msgstr ""
+
+#: plugin.py:422
+msgid "full and timestamp"
+msgstr ""
+
+#: plugin.py:414
+msgid "internal modem"
+msgstr ""
+
+#: plugin.py:418
+msgid "none"
+msgstr ""
+
+#: plugin.py:1303 plugin.py:1304 plugin.py:1306
+msgid "plugin to connect to internet"
+msgstr ""
+
+#: plugin.py:419
+msgid "short"
+msgstr ""
+
+#: plugin.py:421
+msgid "short and timestamp"
+msgstr ""
+
+#: plugin.py:938 plugin.py:960 plugin.py:968
+msgid "usb_modeswitch params"
+msgstr ""
+
+#: plugin.py:417
+msgid "use peers file"
+msgstr ""
+
+#: plugin.py:847 plugin.py:1297 plugin.py:1303 plugin.py:1304 plugin.py:1306
+msgid "xModem"
+msgstr ""
+
+#: plugin.py:1103
+msgid "xModem Connection Log..."
+msgstr ""
+
+#: plugin.py:975
+msgid "xModem on mainmenu"
+msgstr ""
